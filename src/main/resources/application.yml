@@ -1,0 +1,31 @@
+csdn:
+  api:
+    categories: Java场景面试宝典
+    cookie: ${CSDN_API_COOKIE:uuid_tt_dd=10_9894679500-1734859691772-971583; fid=20_80883252794-1763394740515-583571; UserName=hfb_love_ld; UserInfo=24153e726cee4f8996bc0631af284199; UserToken=24153e726cee4f8996bc0631af284199; UserNick=hfb_love_ld; AU=4C5; UN=hfb_love_ld; BT=1763394766687; p_uid=U010000; csdn_newcert_hfb_love_ld=1; __gads=ID=f98b3e552ecca5d7:T=1734859694:RT=1764489206:S=ALNI_MYQgS3_HXSuiMf8ZI_uJiXIiVxkvA; __gpi=UID=00000fb221f0de94:T=1734859694:RT=1764489206:S=ALNI_MY55QKf1jCxINMnEFi92wZHCu1Dgw; __eoi=ID=b9108db50fc69d5b:T=1764489206:RT=1764489206:S=AA-AfjYE-qwaKFqldt_FDK_qIrwC; FCCDCF=[null,null,null,null,null,null,[[32,"[\"1f2727a2-a742-46e9-8183-c0f9e4809215\",[1764489208,96000000]]"]]]; FCNEC=[["AKsRol_jEIpVy8VGMR5f-hjzwur-MChZv80KeYvm5oBadTX5DHp7IEVvmAKMSHgFugieR2fcBV05vMnvn7D7UI-gG6373iUJ1AktHCzf3n4znBia5yy09xdFTKrEhxstmU-nQQYXiEN4VRHVzm3HSijhi-4ld_tJdA=="]]; _clck=14pbw1l^2^g1t^0^2159; dc_sid=c0a425532822c98b58ce7bcc76ff9e49; dc_session_id=11_1767251350687.674187; c_first_ref=articles.zsxq.com; c_first_page=https://editor.csdn.net/md/; c_segment=15; Hm_lvt_6bcd52f51e9b3dce32bec4a3997715ac=1765609248,1767251353; HMACCOUNT=AA8CC7E790FB1D1E; c_dsid=11_1767251514089.096721; Hm_lpvt_6bcd52f51e9b3dce32bec4a3997715ac=1767251515; c_pref=https://articles.zsxq.com/; c_ref=https://editor.csdn.net/; c_page_id=default; log_Id_pv=4; log_Id_view=78; log_Id_click=10; dc_tos=t86cco; SESSION=5efa49bc-0986-41bc-acb5-73f9596c7cad}
+    #cookie: ${CSDN_API_COOKIE:uuid_tt_dd=10_9894740650-1767421471266-957258; fid=20_32561849516-1767421472114-856381; c_segment=10; loginbox_strategy=^%^7B^%^22blog-threeH-dialog-exp11tipShowTimes^%^22^%^3A1^%^7D; hide_login=1; dc_sid=7666bd71d25dc87f8ba1e79399a30dab; c_adb=1; popPageViewTimes=1; Hm_lvt_6bcd52f51e9b3dce32bec4a3997715ac=1767421473; HMACCOUNT=9D790082738DA2AD; _clck=17rjchq^%^5E2^%^5Eg2e^%^5E0^%^5E2194; _clsk=ylectp^%^5E1767421474592^%^5E1^%^5E0^%^5Eq.clarity.ms^%^2Fcollect; dc_session_id=10_1767425321772.383807; c_ab_test=1; SESSION=37d358a5-c3ed-4137-900b-cad360f260b6; UserName=khan_khan_001; UserInfo=1f73c22c743b47ff99f80adf05a932bd; UserToken=1f73c22c743b47ff99f80adf05a932bd; UserNick=khan_khan_001; AU=625; UN=khan_khan_001; BT=1767425424902; p_uid=U010000; csdn_newcert_khan_khan_001=1; c-sidebar-collapse=1; creative_btn_mp=3; c_first_ref=open.weixin.qq.com; c_first_page=https^%^3A//passport.csdn.net/key^%^3Fstatus^%^3Drisk_error^%^26type^%^3Dweixin^%^26msg^%^3D4^%^26result^%^3Dtrue; c_dsid=11_1767425884334.652078; c_pref=https^%^3A//mp.csdn.net/mp_blog/creation/success/156539737; c_ref=https^%^3A//mp.csdn.net/; c_page_id=default; log_Id_pv=13; Hm_lpvt_6bcd52f51e9b3dce32bec4a3997715ac=1767425909; log_Id_view=259; dc_tos=t8a2ks; log_Id_click=18}
+spring:
+  application:
+    name: mcp-server-csdn
+
+  ai:
+    mcp:
+      server:
+        name: ${spring.application.name}
+        version: 1.0.0
+
+  main:
+    banner-mode: off
+    web-application-type: none
+
+logging:
+  pattern:
+    console:
+  file:
+    name: data/log/${spring.application.name}.log
+
+server:
+  servlet:
+    encoding:
+      charset: UTF-8
+      force: true
+      enabled: true

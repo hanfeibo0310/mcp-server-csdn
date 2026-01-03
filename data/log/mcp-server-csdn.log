@@ -1,0 +1,50 @@
+2026-01-03T16:11:51.592+08:00  INFO 5296 --- [mcp-server-csdn] [main] com.hanfb.mcp.server.csdn.test.APITest   : Starting APITest using Java 17.0.2 with PID 5296 (started by han in E:\IdeaProject\ai\mcp-server-csdn)
+2026-01-03T16:11:51.595+08:00  INFO 5296 --- [mcp-server-csdn] [main] com.hanfb.mcp.server.csdn.test.APITest   : No active profile set, falling back to 1 default profile: "default"
+2026-01-03T16:11:52.988+08:00  INFO 5296 --- [mcp-server-csdn] [main] com.hanfb.mcp.server.csdn.test.APITest   : Started APITest in 1.895 seconds (process running for 3.638)
+2026-01-03T16:15:34.892+08:00  INFO 19396 --- [mcp-server-csdn] [main] c.h.mcp.server.csdn.test.CSDNPortTest    : Starting CSDNPortTest using Java 17.0.2 with PID 19396 (started by han in E:\IdeaProject\ai\mcp-server-csdn)
+2026-01-03T16:15:34.895+08:00  INFO 19396 --- [mcp-server-csdn] [main] c.h.mcp.server.csdn.test.CSDNPortTest    : No active profile set, falling back to 1 default profile: "default"
+2026-01-03T16:15:36.512+08:00  INFO 19396 --- [mcp-server-csdn] [main] c.h.mcp.server.csdn.test.CSDNPortTest    : Started CSDNPortTest in 2.117 seconds (process running for 3.737)
+2026-01-03T16:16:10.484+08:00  INFO 24052 --- [mcp-server-csdn] [main] c.h.mcp.server.csdn.test.CSDNPortTest    : Starting CSDNPortTest using Java 17.0.2 with PID 24052 (started by han in E:\IdeaProject\ai\mcp-server-csdn)
+2026-01-03T16:16:10.487+08:00  INFO 24052 --- [mcp-server-csdn] [main] c.h.mcp.server.csdn.test.CSDNPortTest    : No active profile set, falling back to 1 default profile: "default"
+2026-01-03T16:16:11.995+08:00  INFO 24052 --- [mcp-server-csdn] [main] c.h.mcp.server.csdn.test.CSDNPortTest    : Started CSDNPortTest in 2.04 seconds (process running for 3.928)
+2026-01-03T16:16:50.061+08:00  INFO 17972 --- [mcp-server-csdn] [main] com.hanfb.mcp.server.csdn.test.APITest   : Starting APITest using Java 17.0.2 with PID 17972 (started by han in E:\IdeaProject\ai\mcp-server-csdn)
+2026-01-03T16:16:50.069+08:00  INFO 17972 --- [mcp-server-csdn] [main] com.hanfb.mcp.server.csdn.test.APITest   : No active profile set, falling back to 1 default profile: "default"
+2026-01-03T16:16:51.500+08:00  INFO 17972 --- [mcp-server-csdn] [main] com.hanfb.mcp.server.csdn.test.APITest   : Started APITest in 2.037 seconds (process running for 3.601)
+2026-01-03T16:17:17.733+08:00  INFO 22324 --- [mcp-server-csdn] [main] c.h.mcp.server.csdn.test.CSDNPortTest    : Starting CSDNPortTest using Java 17.0.2 with PID 22324 (started by han in E:\IdeaProject\ai\mcp-server-csdn)
+2026-01-03T16:17:17.736+08:00  INFO 22324 --- [mcp-server-csdn] [main] c.h.mcp.server.csdn.test.CSDNPortTest    : No active profile set, falling back to 1 default profile: "default"
+2026-01-03T16:17:19.290+08:00  INFO 22324 --- [mcp-server-csdn] [main] c.h.mcp.server.csdn.test.CSDNPortTest    : Started CSDNPortTest in 2.155 seconds (process running for 3.844)
+2026-01-03T16:20:29.147+08:00  INFO 4540 --- [mcp-server-csdn] [main] com.hanfb.mcp.server.csdn.test.APITest   : Starting APITest using Java 17.0.2 with PID 4540 (started by han in E:\IdeaProject\ai\mcp-server-csdn)
+2026-01-03T16:20:29.149+08:00  INFO 4540 --- [mcp-server-csdn] [main] com.hanfb.mcp.server.csdn.test.APITest   : No active profile set, falling back to 1 default profile: "default"
+2026-01-03T16:20:30.523+08:00  INFO 4540 --- [mcp-server-csdn] [main] com.hanfb.mcp.server.csdn.test.APITest   : Started APITest in 1.867 seconds (process running for 3.429)
+2026-01-03T16:20:50.409+08:00  INFO 7544 --- [mcp-server-csdn] [main] c.h.mcp.server.csdn.test.CSDNPortTest    : Starting CSDNPortTest using Java 17.0.2 with PID 7544 (started by han in E:\IdeaProject\ai\mcp-server-csdn)
+2026-01-03T16:20:50.411+08:00  INFO 7544 --- [mcp-server-csdn] [main] c.h.mcp.server.csdn.test.CSDNPortTest    : No active profile set, falling back to 1 default profile: "default"
+2026-01-03T16:20:51.791+08:00  INFO 7544 --- [mcp-server-csdn] [main] c.h.mcp.server.csdn.test.CSDNPortTest    : Started CSDNPortTest in 1.934 seconds (process running for 3.468)
+2026-01-03T16:22:33.826+08:00  INFO 22104 --- [mcp-server-csdn] [main] com.hanfb.mcp.server.csdn.test.APITest   : Starting APITest using Java 17.0.2 with PID 22104 (started by han in E:\IdeaProject\ai\mcp-server-csdn)
+2026-01-03T16:22:33.829+08:00  INFO 22104 --- [mcp-server-csdn] [main] com.hanfb.mcp.server.csdn.test.APITest   : No active profile set, falling back to 1 default profile: "default"
+2026-01-03T16:22:41.710+08:00  INFO 3768 --- [mcp-server-csdn] [main] c.h.mcp.server.csdn.test.CSDNPortTest    : Starting CSDNPortTest using Java 17.0.2 with PID 3768 (started by han in E:\IdeaProject\ai\mcp-server-csdn)
+2026-01-03T16:22:41.712+08:00  INFO 3768 --- [mcp-server-csdn] [main] c.h.mcp.server.csdn.test.CSDNPortTest    : No active profile set, falling back to 1 default profile: "default"
+2026-01-03T16:22:43.727+08:00  INFO 3768 --- [mcp-server-csdn] [main] c.h.mcp.server.csdn.test.CSDNPortTest    : Started CSDNPortTest in 2.525 seconds (process running for 4.084)
+2026-01-03T16:24:07.380+08:00  INFO 19824 --- [mcp-server-csdn] [main] com.hanfb.mcp.server.csdn.test.APITest   : Starting APITest using Java 17.0.2 with PID 19824 (started by han in E:\IdeaProject\ai\mcp-server-csdn)
+2026-01-03T16:24:07.382+08:00  INFO 19824 --- [mcp-server-csdn] [main] com.hanfb.mcp.server.csdn.test.APITest   : No active profile set, falling back to 1 default profile: "default"
+2026-01-03T16:24:08.718+08:00  INFO 19824 --- [mcp-server-csdn] [main] com.hanfb.mcp.server.csdn.test.APITest   : Started APITest in 1.881 seconds (process running for 3.376)
+2026-01-03T16:24:24.496+08:00  INFO 8824 --- [mcp-server-csdn] [main] c.h.mcp.server.csdn.test.CSDNPortTest    : Starting CSDNPortTest using Java 17.0.2 with PID 8824 (started by han in E:\IdeaProject\ai\mcp-server-csdn)
+2026-01-03T16:24:24.499+08:00  INFO 8824 --- [mcp-server-csdn] [main] c.h.mcp.server.csdn.test.CSDNPortTest    : No active profile set, falling back to 1 default profile: "default"
+2026-01-03T16:24:25.964+08:00  INFO 8824 --- [mcp-server-csdn] [main] c.h.mcp.server.csdn.test.CSDNPortTest    : Started CSDNPortTest in 1.991 seconds (process running for 3.511)
+2026-01-03T16:25:38.235+08:00  INFO 12008 --- [mcp-server-csdn] [main] com.hanfb.mcp.server.csdn.test.APITest   : Starting APITest using Java 17.0.2 with PID 12008 (started by han in E:\IdeaProject\ai\mcp-server-csdn)
+2026-01-03T16:25:38.238+08:00  INFO 12008 --- [mcp-server-csdn] [main] com.hanfb.mcp.server.csdn.test.APITest   : No active profile set, falling back to 1 default profile: "default"
+2026-01-03T16:25:39.613+08:00  INFO 12008 --- [mcp-server-csdn] [main] com.hanfb.mcp.server.csdn.test.APITest   : Started APITest in 1.894 seconds (process running for 3.456)
+2026-01-03T16:26:15.684+08:00  INFO 22280 --- [mcp-server-csdn] [main] c.h.mcp.server.csdn.test.CSDNPortTest    : Starting CSDNPortTest using Java 17.0.2 with PID 22280 (started by han in E:\IdeaProject\ai\mcp-server-csdn)
+2026-01-03T16:26:15.687+08:00  INFO 22280 --- [mcp-server-csdn] [main] c.h.mcp.server.csdn.test.CSDNPortTest    : No active profile set, falling back to 1 default profile: "default"
+2026-01-03T16:26:17.028+08:00  INFO 22280 --- [mcp-server-csdn] [main] c.h.mcp.server.csdn.test.CSDNPortTest    : Started CSDNPortTest in 1.881 seconds (process running for 3.341)
+2026-01-03T16:31:54.963+08:00  INFO 312 --- [mcp-server-csdn] [main] com.hanfb.mcp.server.csdn.test.APITest   : Starting APITest using Java 17.0.2 with PID 312 (started by han in E:\IdeaProject\ai\mcp-server-csdn)
+2026-01-03T16:31:54.965+08:00  INFO 312 --- [mcp-server-csdn] [main] com.hanfb.mcp.server.csdn.test.APITest   : No active profile set, falling back to 1 default profile: "default"
+2026-01-03T16:31:56.518+08:00  INFO 312 --- [mcp-server-csdn] [main] com.hanfb.mcp.server.csdn.test.APITest   : Started APITest in 2.085 seconds (process running for 3.611)
+2026-01-03T16:32:43.357+08:00  INFO 23596 --- [mcp-server-csdn] [main] com.hanfb.mcp.server.csdn.test.APITest   : Starting APITest using Java 17.0.2 with PID 23596 (started by han in E:\IdeaProject\ai\mcp-server-csdn)
+2026-01-03T16:32:43.360+08:00  INFO 23596 --- [mcp-server-csdn] [main] com.hanfb.mcp.server.csdn.test.APITest   : No active profile set, falling back to 1 default profile: "default"
+2026-01-03T16:32:44.710+08:00  INFO 23596 --- [mcp-server-csdn] [main] com.hanfb.mcp.server.csdn.test.APITest   : Started APITest in 1.898 seconds (process running for 3.394)
+2026-01-03T16:33:26.080+08:00  INFO 2436 --- [mcp-server-csdn] [main] com.hanfb.mcp.server.csdn.test.APITest   : Starting APITest using Java 17.0.2 with PID 2436 (started by han in E:\IdeaProject\ai\mcp-server-csdn)
+2026-01-03T16:33:26.082+08:00  INFO 2436 --- [mcp-server-csdn] [main] com.hanfb.mcp.server.csdn.test.APITest   : No active profile set, falling back to 1 default profile: "default"
+2026-01-03T16:33:27.682+08:00  INFO 2436 --- [mcp-server-csdn] [main] com.hanfb.mcp.server.csdn.test.APITest   : Started APITest in 2.14 seconds (process running for 3.58)
+2026-01-03T16:36:39.001+08:00  INFO 22664 --- [mcp-server-csdn] [main] com.hanfb.mcp.server.csdn.test.APITest   : Starting APITest using Java 17.0.2 with PID 22664 (started by han in E:\IdeaProject\ai\mcp-server-csdn)
+2026-01-03T16:36:39.003+08:00  INFO 22664 --- [mcp-server-csdn] [main] com.hanfb.mcp.server.csdn.test.APITest   : No active profile set, falling back to 1 default profile: "default"
+2026-01-03T16:36:40.368+08:00  INFO 22664 --- [mcp-server-csdn] [main] com.hanfb.mcp.server.csdn.test.APITest   : Started APITest in 1.924 seconds (process running for 3.414)

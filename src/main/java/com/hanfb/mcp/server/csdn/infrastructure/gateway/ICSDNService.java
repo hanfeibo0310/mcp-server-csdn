@@ -10,7 +10,7 @@ import retrofit2.http.POST;
 
 public interface ICSDNService {
 
-    @POST("blog-console-api/v3/mdeditor/saveArticle")
+    @POST("/blog-console-api/v3/mdeditor/saveArticle")
     @Headers({
             "Accept-Encoding: gzip, deflate, br",
             "Connection: keep-alive",

@@ -20,9 +20,9 @@ public class CSDNApiGateway {
     public ArticleResponseDTO saveArticle(String cookie, ArticleRequestDTO request) throws IOException {
         Call<ArticleResponseDTO> call = icsdnService.saveArticle(request, cookie);
         Response<ArticleResponseDTO> response = call.execute();
-        String s = new String(response.errorBody().bytes());
+        //String s = new String(response.errorBody().bytes());
         if (!response.isSuccessful()) {
-            throw new IOException("CSDN saveArticle HTTP " + response.code() + " - " + s);
+            throw new IOException("CSDN saveArticle HTTP " + response.code());
         }
         return response.body();
     }

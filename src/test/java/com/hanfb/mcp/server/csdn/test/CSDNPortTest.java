@@ -15,7 +15,7 @@ public class CSDNPortTest {
     @Autowired
     private CSDNApiProperties csdnApiProperties;
 
-    //@Test
+    @Test
     public void testWriteArticle() throws Exception {
         String cookie = csdnApiProperties.getCookie();
         Assumptions.assumeTrue(cookie != null && !cookie.isBlank(), "CSDN Cookie 未配置，跳过测试。请通过环境变量 CSDN_API_COOKIE 或 application.yml 设置 csdn.api.cookie。");

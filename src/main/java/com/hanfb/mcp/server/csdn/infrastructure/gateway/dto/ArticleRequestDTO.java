@@ -13,7 +13,7 @@ public class ArticleRequestDTO {
     private String readType = "public";
     private String level = "0";
     private String tags;
-    private Integer status = 0;
+    private Integer status = 2;
     private String categories = "后端";
     private String type = "original";
     private String original_link = "";

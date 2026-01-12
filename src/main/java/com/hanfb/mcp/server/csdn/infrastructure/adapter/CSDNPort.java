@@ -42,9 +42,18 @@ public class CSDNPort implements ICSDNPort {
         log.info("请求CSDN发帖 \nreq:{} \nres:{}", JSON.toJSONString(articleRequestDTO), JSON.toJSONString(response));
 
         if (null == response) return null;
+        ArticleResponseDTO.ArticleData articleData = response.getData();
+
         ArticleFunctionResponse articleFunctionResponse = new ArticleFunctionResponse();
         articleFunctionResponse.setCode(response.getCode());
         articleFunctionResponse.setMsg(response.getMsg());
+        articleFunctionResponse.setArticleData(ArticleFunctionResponse.ArticleData.builder()
+                .url(articleData.getUrl())
+                .id(articleData.getId())
+                .qrcode(articleData.getQrcode())
+                .title(articleData.getTitle())
+                .description(articleData.getDescription())
+                .build());
 
         return articleFunctionResponse;
 
